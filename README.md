@@ -101,35 +101,6 @@ Continuous Learning      ████████████████ 100%
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DEBEYENDU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBEYENDU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEBEYENDU&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEBEYENDU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEBEYENDU&theme=tokyo-night" alt="Contribution Activity Graph" />
-</p>
-
----
-
 ## ✍️ Dev Quote
 
 <p align="center">
@@ -151,20 +122,6 @@ Continuous Learning      ████████████████ 100%
 
 ---
 
-## 💡 Developer Motto
-
-```text
-while(alive){
-    learn();
-    build();
-    secure();
-    repeat();
-}
-```
-
----
-
-<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
