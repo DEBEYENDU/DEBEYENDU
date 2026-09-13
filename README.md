@@ -118,6 +118,12 @@ Continuous Learning      ████████████████ 100%
   <a href="https://github.com/DEBEYENDU">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
+  <a href="https://www.instagram.com/debeyendu/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/debeyendu-karmakar-818256336">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
