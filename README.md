@@ -39,12 +39,12 @@ Continuous Learning         ████████████████ 100
 </td>
 <td width="40%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEBEYENDU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Stats"/>
-</p>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="Coding animation"/>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBEYENDU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DEBEYENDU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Stats"/>
 </p>
 
 </td>
@@ -56,12 +56,27 @@ Continuous Learning         ████████████████ 100
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,latex,git,github,vscode,linux,opencv,nodejs" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,typescript,fastapi,docker,postgresql,git,github,vscode,linux" alt="Tech Stack"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📊 [AI-Powered BI Platform](https://github.com/DEBEYENDU/ai-powered-bi-platform)
+**AI-Powered Business Intelligence and Analytics Platform — BE Final Year Project**
+
+Enterprise-grade BI & analytics platform with 16 completed phases: SRS, Architecture, UX/UI, PostgreSQL design, API, IAM, Dataset Management, ETL & Data Quality, KPI Engine, Dashboard, ML Platform, AI Business Assistant with LLM Orchestration & RAG, Reporting Automation, Admin & Observability, DevOps.
+
+**Highlights**
+- React 19 + TypeScript + TailwindCSS frontend with Framer Motion
+- FastAPI + SQLAlchemy 2.x + PostgreSQL + Redis + Celery backend
+- Apache ECharts dashboards, JWT RBAC auth, Docker Compose deployment
+- AI Assistant with Natural Language Analytics
+
+**Stack:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Docker`
+
+---
 
 ### 🛡️ [TextShield](https://github.com/DEBEYENDU/TextShield)
 **AI-Powered Multichannel Spam & Ham Detection with RAG-Based Explainable Analysis**
@@ -83,7 +98,7 @@ Production-quality academic project detecting SPAM/HAM across SMS, text, and ema
 ### 🎥 [Vision-MoCap](https://github.com/DEBEYENDU/Vision-MoCap)
 **Markerless Motion Capture Desktop Application**
 
-Real-time human pose estimation and motion recording/playback using MediaPipe Tasks Pose Landmarker. Built with CustomTkinter, following Clean Architecture for maintainability and testability.
+Real-time human pose estimation and motion recording/playback using MediaPipe Tasks Pose Landmarker. Built with CustomTkinter, following Clean Architecture.
 
 **Highlights**
 - Real-time 33-landmark skeleton tracking via MediaPipe
@@ -92,9 +107,9 @@ Real-time human pose estimation and motion recording/playback using MediaPipe Ta
 - Playback with timeline scrubbing, frame stepping
 - Motion processing pipeline: OutlierRemoval, LinearInterpolation, MovingAverage, ExponentialSmoothing, OneEuro, SavitzkyGolay
 - Skeleton mapping to Mixamo/Blender/VRM/Ready Player Me
-- BVH / CSV / NPY export, in-GUI animation creation
+- BVH / CSV / NPY export
 
-**Stack:** `Python` `CustomTkinter` `MediaPipe` `OpenCV` `NumPy` `Pillow` `PyTest`
+**Stack:** `Python` `CustomTkinter` `MediaPipe` `OpenCV` `NumPy` `Pillow`
 
 ---
 
@@ -120,6 +135,14 @@ Lightweight front-end quiz built with HTML for quick practice and learning inter
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DEBEYENDU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4" alt="Trophies"/>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DEBEYENDU/DEBEYENDU/output/github-snake.svg" alt="Snake"/>
+</p>
 
 ---
 
