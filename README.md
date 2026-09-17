@@ -44,7 +44,16 @@ Continuous Learning         ████████████████ 100
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEBEYENDU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Stats"/>
+  <a href="https://github.com/DEBEYENDU">
+    <img src="https://img.shields.io/github/followers/DEBEYENDU?style=social"/>
+  </a>
+  <a href="https://github.com/DEBEYENDU?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-4-3b82f6?style=flat-square"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=DEBEYENDU&theme=tokyonight&hide_border=true"/>
 </p>
 
 </td>
@@ -129,20 +138,22 @@ Lightweight front-end quiz built with HTML for quick practice and learning inter
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEBEYENDU&theme=tokyo-night" width="95%" alt="Activity Graph"/>
+  <p>
+    <a href="https://github.com/DEBEYENDU?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-4-blue?style=flat-square"/>
+    </a>
+    <a href="https://github.com/DEBEYENDU">
+      <img src="https://img.shields.io/github/followers/DEBEYENDU?style=social"/>
+    </a>
+    <a href="https://github.com/DEBEYENDU">
+      <img src="https://img.shields.io/github/followers/DEBEYENDU?style=social"/>
+    </a>
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEBEYENDU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-3b82f6?style=flat-square"/>
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DEBEYENDU/DEBEYENDU/output/github-snake.svg" alt="Snake"/>
-</p>
 
 ---
 
